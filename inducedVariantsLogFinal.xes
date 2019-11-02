@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XES version 1.0 -->
+<!-- Created by Fluxicon Disco (http://fluxicon.com/disco/ -->
+<!-- (c) 2017 Fluxicon - http://fluxicon.com/ -->
+<log xes.version="1.0" xmlns="http://www.xes-standard.org" xes.creator="Fluxicon Disco">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+		<string key="variant" value="string"/>
+		<int key="variant-index" value="0"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<date key="time:timestamp" value="2019-11-02T04:39:55.692+00:00"/>
+		<string key="style" value="string"/>
+		<string key="motionID" value="string"/>
+	</global>
+	<classifier name="Activity" keys="motionID"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="2"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:00.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:06.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:06.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:06.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:11.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:13.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:13.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:14.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:14.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:19.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:19.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:01:23.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="3"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:00.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:10.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:11.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:11.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:19.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:19.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:23.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:23.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:24.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:24.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:02:28.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="4"/>
+		<string key="variant" value="Variant 2"/>
+		<int key="variant-index" value="2"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:00.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:12.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:12.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:13.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:13.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:17.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:23.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:23.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:24.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:24.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:03:28.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="5"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:00.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:04.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="2"/>
+		</event>
+		<event>
+			<string key="concept:name" value="4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="4"/>
+		</event>
+		<event>
+			<string key="concept:name" value="5"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="5"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:05.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="7"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:10.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="7"/>
+		</event>
+		<event>
+			<string key="concept:name" value="6"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:11.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="6"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:11.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="8"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="8"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:18.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="9"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:19.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="9"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:19.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="10"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:23.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="10"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:23.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="11"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:24.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="11"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="start"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:24.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+		<event>
+			<string key="concept:name" value="13"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2018-01-01T00:04:28.000+00:00"/>
+			<string key="style" value="1"/>
+			<string key="motionID" value="13"/>
+		</event>
+	</trace>
+</log>

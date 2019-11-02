@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MXML version 1.0 -->
+<!-- Created by Fluxicon Disco (http://fluxicon.com/disco/ -->
+<!-- (c) 2017 Fluxicon - http://fluxicon.com/ -->
+<WorkflowLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://is.tm.tue.nl/research/processmining/WorkflowLog.xsd">
+	<Source program="Fluxicon Disco"/>
+	<Process id="inducedVariantsLogFinal.mxml" description="Converted to MXML by Fluxicon Disco">
+		<ProcessInstance id="2">
+			<Data>
+				<Attribute name="Variant">Variant 1</Attribute>
+				<Attribute name="Variant index">1</Attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:00.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:06.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:06.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:06.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:11.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:13.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:13.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:14.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:14.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:19.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:01:19.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:01:23.000+00:00</Timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="3">
+			<Data>
+				<Attribute name="Variant">Variant 1</Attribute>
+				<Attribute name="Variant index">1</Attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:00.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:10.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:11.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:11.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:19.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:19.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:23.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:23.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:24.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:02:24.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:02:28.000+00:00</Timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="4">
+			<Data>
+				<Attribute name="Variant">Variant 2</Attribute>
+				<Attribute name="Variant index">2</Attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:00.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:12.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:12.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:13.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:13.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:17.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:23.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:23.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:24.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:03:24.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:03:28.000+00:00</Timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="5">
+			<Data>
+				<Attribute name="Variant">Variant 1</Attribute>
+				<Attribute name="Variant index">1</Attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:00.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>1</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:04.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>2</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>4</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>5</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:05.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>7</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:10.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>6</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:11.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:11.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>8</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:18.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>9</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:19.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:19.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>10</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:23.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:23.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>11</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:24.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>start</EventType>
+				<Timestamp>2018-01-01T00:04:24.000+00:00</Timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<Attribute name="style">1</Attribute>
+				</Data>
+				<WorkflowModelElement>13</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<Timestamp>2018-01-01T00:04:28.000+00:00</Timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+	</Process>
+</WorkflowLog>
